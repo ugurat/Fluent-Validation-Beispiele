@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+
+# Build files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Debugging
+*.log
+
+# Packages
+packages/
+*.nupkg
+
+# Misc
+_[Bb]ackup/
+*~
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+project.nuget.cache
